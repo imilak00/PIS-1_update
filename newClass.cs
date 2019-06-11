@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Class1
+    
+    class newClass
     {
+        void newMethod()
+        {}
     }
 }
