@@ -8,6 +8,6 @@ namespace ConsoleApplication1
 {
     class Class1
     {
-        "Console.WriteLine("muhaha");
+        
     }
 }
